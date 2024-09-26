@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codeomed: Transforming Healthcare with AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+        header {
+            background-color: #4682b4;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #b0c4de;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        nav ul li {
+            margin: 0 10px;
+        }
+        nav ul li a {
+            color: #333;
+            text-decoration: none;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #4682b4;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Codeomed</h1>
+        <p>Transforming Healthcare with AI</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Codeomed</h2>
+            <p>Codeomed is an innovative artificial intelligence system designed to revolutionize healthcare. By integrating advanced algorithms with comprehensive medical expertise, Codeomed assists healthcare professionals in improving diagnostic accuracy, optimizing treatment strategies, and enhancing overall patient care.</p>
+        </section>
+        <section id="features">
+            <h2>Key Features</h2>
+            <ul>
+                <li>Advanced AI-powered medical imaging analysis</li>
+                <li>Data-driven personalized treatment recommendations</li>
+                <li>Predictive health analytics for preventive care</li>
+                <li>Efficient medical documentation through natural language processing</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Get in Touch</h2>
+            <p>Discover how Codeomed can elevate your healthcare practice. Reach out to us today for a comprehensive demonstration.</p>
+            <a href="#" class="cta-button">Request Demo</a>
+        </section>
+    </main>
+</body>
+</html>
+
